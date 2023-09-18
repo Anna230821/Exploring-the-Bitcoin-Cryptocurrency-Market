@@ -5,6 +5,7 @@
 
 
 Research Findings:
+
 (1) Bitcoin is the largest cryptocurrency by market capitalization in the virtual currency trading market.
 
 (2) Price fluctuations in a single day can range from as high as 800% (Fedoracoin) to as low as -100% (Flappycoin). Some cryptocurrencies can experience an increase in value by as much as 35 times within a week.
