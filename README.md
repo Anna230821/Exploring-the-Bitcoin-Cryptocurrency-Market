@@ -16,6 +16,7 @@ Research Findings:
 (4)The volatility of cryptocurrency prices is extremely high, leading to elevated investment risks. There's a chance for overnight riches, but there's also a possibility of overnight destitution.
 
 
+
  使用數據集來自coinmarketcap API，提供20171206當天的虛擬貨幣市場資訊，目標為探索該市場中交易貨幣的市值與波動。
 
  研究結果: 
